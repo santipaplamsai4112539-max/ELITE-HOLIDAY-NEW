@@ -1,0 +1,5 @@
+{
+  "name": "Siam Signature Price Calculator",
+  "description": "A web application to calculate the rental price for the Siam Signature luxury business class bus service based on the number of days and total travel distance.",
+  "requestFramePermissions": []
+}
